@@ -6,7 +6,7 @@ subtitle: The University of British Columbia
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: adnan.jpg
   image_cicular: false # crops the image to make it circular
   address: >
     <p>4025 Fred Kaiser, UBC</p>
