@@ -7,6 +7,7 @@ nav: true
 nav_order: 2
 ---
 
+***
 #### Research Intern
 <ul>
     <li>Microsoft Research - Vancouver, CA. [Summer 2021]</li>
@@ -15,6 +16,7 @@ nav_order: 2
         <li>Project: Design Space Exploration of Domain Specific Accelerators.</li>
     <ul>
 </ul>
+***
 
 #### Research Assistant
 <ul>
@@ -23,8 +25,10 @@ nav_order: 2
         <li>Researech Lab: Systems and Architectures (STAR) Lab</li>
     <ul>
 </ul>
+***
 
 #### Account Manager
 <ul>
     <li>National Instruments - Islamabad, PAK. [2013 - 2019]</li>
 </ul>
+***
