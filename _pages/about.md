@@ -10,7 +10,7 @@ profile:
   image_cicular: false # crops the image to make it circular
   address: >
     <p>4025 Fred Kaiser, UBC</p>
-    <p>adnan@ece.ubc.ca</p>
+    [adnan@ece.ubc.ca](adnan@ece.ubc.ca)
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
