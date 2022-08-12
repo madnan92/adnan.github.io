@@ -18,7 +18,7 @@ nav_order: 2
 
 #### Research Assistant
 
-  * **University of British Columbia** - Vancouver, Canada. [2019 - continued]
+  * **University of British Columbia** - Vancouver, Canada. [2019 - Present]
       * Researech Lab: Systems and Architectures (STAR) Lab
 
 
