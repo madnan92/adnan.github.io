@@ -9,9 +9,10 @@ profile:
   image: adnan.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>4025 Fred Kaiser (KAIS)</p>
-    <p>2332 Main Mall, Vancouver</p>
-    <p>BC, Canada. V6T 1Z4</p>
+    <p>4025 Fred Kaiser</p>
+    <p>2332 Main Mall</p>
+    <p>Vancouver, BC</p>
+    <p>Canada. V6T 1Z4</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
