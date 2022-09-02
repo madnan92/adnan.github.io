@@ -4,4 +4,4 @@ date: 2021-08-15 15:59:00-0400
 inline: true
 ---
 
-Paper got accepted into PVLDB Vol 15.
+Our paper "Accelerating Recommendation System Training by Leveraging Popular Choices" got accepted into VLDB 2022.
